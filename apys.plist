@@ -30,18 +30,20 @@
                    <string>http://9.9.9.9/applogo.png</string>
                </dict>
            </array><key>metadata</key>
-           <dict>
-               <key>bundle-identifier</key>
-               <string>com.apys</string>
-               <key>bundle-version</key>
-               <string>1.0.0</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string>apys.ipa</string>
-               <key>title</key>
-               <string>apys.ipa</string>
-           </dict>
+<dict>
+	<key>application-identifier</key>
+	<string>729C3QJH26.com.sk.sre</string>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>729C3QJH26</string>
+	<key>get-task-allow</key>
+	<false/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>729C3QJH26.*</string>
+	</array>
+</dict>
        </dict>
    </array>
 </dict>
