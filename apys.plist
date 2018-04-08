@@ -30,20 +30,18 @@
                    <string>http://9.9.9.9/applogo.png</string>
                </dict>
            </array><key>metadata</key>
-<dict>
-	<key>application-identifier</key>
-	<string>729C3QJH26.com.sk.sre</string>
-	<key>aps-environment</key>
-	<string>production</string>
-	<key>com.apple.developer.team-identifier</key>
-	<string>729C3QJH26</string>
-	<key>get-task-allow</key>
-	<false/>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>729C3QJH26.*</string>
-	</array>
-</dict>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>729C3QJH26.com.sk.sre</string>
+               <key>bundle-version</key>
+               <string>1.0.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>729C3QJH26.com.sk.sre</string>
+               <key>title</key>
+               <string>729C3QJH26.com.sk.sre</string>
+           </dict>
        </dict>
    </array>
 </dict>
