@@ -32,15 +32,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>729C3QJH26.com.sk.sre</string>
+               <string>com.sk.sre</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>729C3QJH26.com.sk.sre</string>
+               <string>com.sk.sre</string>
                <key>title</key>
-               <string>729C3QJH26.com.sk.sre</string>
+               <string>com.sk.sre</string>
            </dict>
        </dict>
    </array>
